@@ -61,13 +61,12 @@
 
 <br>
 <h2 align="center">📺 Latest YouTube Videos 📺</h2>
+<br>
+
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Will AI Replace Programmers? - My take](https://ytcards.demolab.com/?id=9vjZ2LoerRw&title=Will+AI+Replace+Programmers%3F+-+My+take&lang=en&timestamp=1681628403&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=737 "Will AI Replace Programmers? - My take")](https://www.youtube.com/watch?v=9vjZ2LoerRw)
-[![React Pagination Made Simple! (+TypeScript)](https://ytcards.demolab.com/?id=Ex3r5CTQL1k&title=React+Pagination+Made+Simple%21+%28%2BTypeScript%29&lang=en&timestamp=1681194603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=789 "React Pagination Made Simple! (+TypeScript)")](https://www.youtube.com/watch?v=Ex3r5CTQL1k)
-[![Create Your Custom GitHub Profile Portfolio in Minutes!](https://ytcards.demolab.com/?id=Oyh0yBJMLrM&title=Create+Your+Custom+GitHub+Profile+Portfolio+in+Minutes%21&lang=en&timestamp=1680338285&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=893 "Create Your Custom GitHub Profile Portfolio in Minutes!")](https://www.youtube.com/watch?v=Oyh0yBJMLrM)
-[![The Only CSS Grid Video You'll Ever Need](https://ytcards.demolab.com/?id=adsEUM6xGvI&title=The+Only+CSS+Grid+Video+You%27ll+Ever+Need&lang=en&timestamp=1679785202&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1387 "The Only CSS Grid Video You'll Ever Need")](https://www.youtube.com/watch?v=adsEUM6xGvI)
-[![Top Tricks for Boosting Website Performance: Front-End Developer Edition](https://ytcards.demolab.com/?id=x99LVbOTgt4&title=Top+Tricks+for+Boosting+Website+Performance%3A+Front-End+Developer+Edition&lang=en&timestamp=1679374819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1240 "Top Tricks for Boosting Website Performance: Front-End Developer Edition")](https://www.youtube.com/watch?v=x99LVbOTgt4)
-[![From Chaos to Order: Structuring Your Programming Projects](https://ytcards.demolab.com/?id=djPrljZsVxc&title=From+Chaos+to+Order%3A+Structuring+Your+Programming+Projects&lang=en&timestamp=1678590017&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=988 "From Chaos to Order: Structuring Your Programming Projects")](https://www.youtube.com/watch?v=djPrljZsVxc)
+[![Tìm hiểu mã hóa khóa công khai RSA và đề mô code cách vận hành của thuật toán](https://ytcards.demolab.com/?id=_ASEwCBx1Tw&title=Tìm+hiểu+mã+hóa+công+khai+RSA+và+đề+mô+code+cách+của+thuật+toán&lang=en&timestamp=1664582400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=737 "Tìm hiểu mã hóa khóa công khai RSA và đề mô code cách vận hành của thuật toán")](https://www.youtube.com/watch?v=_ASEwCBx1Tw)
+[![Phần mềm tìm bao đóng, tìm khóa, tìm phủ tối thiểu, tìm dạng chuẩn của lược đồ quan hệ Cơ Sở Dữ Liệu](https://ytcards.demolab.com/?id=k5iLlC_b0XE&title=Phần+mềm+tìm+bao+đóng,+tìm+khóa,+tìm+phủ+tối+thiểu,+tìm+dạng+chuẩn+của+lược+đồ+quan+hệ+Cơ+Sở+Dữ+Liệulang=en&timestamp=1663632000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=789 "Phần mềm tìm bao đóng, tìm khóa, tìm phủ tối thiểu, tìm dạng chuẩn của lược đồ quan hệ Cơ Sở Dữ Liệu")](https://www.youtube.com/watch?v=k5iLlC_b0XE)
+[![Chia sẻ source code đồ án môn học Website Tin Tức sử dụng PHP Laravel Framework](https://ytcards.demolab.com/?id=q_xgACXe5wo&title=Chia+sẻ+source+code+đồ+án+môn+học+Website+Tin+Tức+sử+dụng+PHP+Laravel+Framework&lang=en&timestamp=1656374400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=893 "Chia sẻ source code đồ án môn học Website Tin Tức sử dụng PHP Laravel Framework")](https://www.youtube.com/watch?v=q_xgACXe5wo)
 <!-- END YOUTUBE-CARDS -->
 <br>
 
@@ -93,7 +92,7 @@
   <br>
   <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/hoanhtuan.it" target="_blank">facebook.com/hoanhtuan.it</a></strong>
   <br>
-  <strong>📧 Hoặc Email: <a href="mailto:trungquandev.official@gmail.com" target="_top">anhtuana2k422001@gmail.com</a></strong>
+  <strong>📧 Hoặc Email: <a href="mailto:anhtuana2k422001@gmail.com" target="_top">anhtuana2k422001@gmail.com</a></strong>
 </p>
 
 
