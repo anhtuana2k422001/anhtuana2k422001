@@ -6,13 +6,13 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
-    # Allow the job to commit to the repository
-    permissions:
-      contents: write
-    # Run the GitHub Readme YouTube Cards action
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: gtAkn027RpsxTgSn7XJ7Tg
+          comment_tag_name: YOUTUBE-CARDS
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          show_duration: true
+          output_type: html
