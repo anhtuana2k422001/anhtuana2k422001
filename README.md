@@ -64,9 +64,7 @@
 <br>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Tìm hiểu mã hóa khóa công khai RSA và đề mô code cách vận hành của thuật toán](https://ytcards.demolab.com/?id=_ASEwCBx1Tw&title=Tìm+hiểu+mã+hóa+công+khai+RSA+và+đề+mô+code+cách+của+thuật+toán&lang=en&timestamp=1664582400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=737 "Tìm hiểu mã hóa khóa công khai RSA và đề mô code cách vận hành của thuật toán")](https://www.youtube.com/watch?v=_ASEwCBx1Tw)
-[![Phần mềm tìm bao đóng, tìm khóa, tìm phủ tối thiểu, tìm dạng chuẩn của lược đồ quan hệ Cơ Sở Dữ Liệu](https://ytcards.demolab.com/?id=k5iLlC_b0XE&title=Phần+mềm+tìm+bao+đóng,+tìm+khóa,+tìm+phủ+tối+thiểu,+tìm+dạng+chuẩn+của+lược+đồ+quan+hệ+Cơ+Sở+Dữ+Liệulang=en&timestamp=1663632000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=789 "Phần mềm tìm bao đóng, tìm khóa, tìm phủ tối thiểu, tìm dạng chuẩn của lược đồ quan hệ Cơ Sở Dữ Liệu")](https://www.youtube.com/watch?v=k5iLlC_b0XE)
-[![Chia sẻ source code đồ án môn học Website Tin Tức sử dụng PHP Laravel Framework](https://ytcards.demolab.com/?id=q_xgACXe5wo&title=Chia+sẻ+source+code+đồ+án+môn+học+Website+Tin+Tức+sử+dụng+PHP+Laravel+Framework&lang=en&timestamp=1656374400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=893 "Chia sẻ source code đồ án môn học Website Tin Tức sử dụng PHP Laravel Framework")](https://www.youtube.com/watch?v=q_xgACXe5wo)
+
 <!-- END YOUTUBE-CARDS -->
 <br>
 
