@@ -1,7 +1,4 @@
-# 🌌 HO ANH TUAN
-
-***`Web Developer / Back-End Developer`***
-<!-- Trungquandev -->
+<!-- Hoanhtuan.nam.vn -->
 <a href="#" target="_blank">
   <img src="svg/hoanhtuan.svg" width="1200" alt="hoanhtuan-official" />
 </a>
@@ -65,9 +62,12 @@
 <br>
 <h2 align="center">📺 Latest YouTube Videos 📺</h2>
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Will AI Replace Programmers? - My take](https://ytcards.demolab.com/?id=9vjZ2LoerRw&title=Will+AI+Replace+Programmers%3F+-+My+take&lang=en&timestamp=1681628403&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=737 "Will AI Replace Programmers? - My take")](https://www.youtube.com/watch?v=_ASEwCBx1Tw)
-[![React Pagination Made Simple! (+TypeScript)](https://ytcards.demolab.com/?id=Ex3r5CTQL1k&title=React+Pagination+Made+Simple%21+%28%2BTypeScript%29&lang=en&timestamp=1681194603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=789 "React Pagination Made Simple! (+TypeScript)")](https://www.youtube.com/watch?v=k5iLlC_b0XE)
-[![Create Your Custom GitHub Profile Portfolio in Minutes!](https://ytcards.demolab.com/?id=Oyh0yBJMLrM&title=Create+Your+Custom+GitHub+Profile+Portfolio+in+Minutes%21&lang=en&timestamp=1680338285&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=893 "Create Your Custom GitHub Profile Portfolio in Minutes!")](https://www.youtube.com/watch?v=q_xgACXe5wo)
+[![Will AI Replace Programmers? - My take](https://ytcards.demolab.com/?id=9vjZ2LoerRw&title=Will+AI+Replace+Programmers%3F+-+My+take&lang=en&timestamp=1681628403&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=737 "Will AI Replace Programmers? - My take")](https://www.youtube.com/watch?v=9vjZ2LoerRw)
+[![React Pagination Made Simple! (+TypeScript)](https://ytcards.demolab.com/?id=Ex3r5CTQL1k&title=React+Pagination+Made+Simple%21+%28%2BTypeScript%29&lang=en&timestamp=1681194603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=789 "React Pagination Made Simple! (+TypeScript)")](https://www.youtube.com/watch?v=Ex3r5CTQL1k)
+[![Create Your Custom GitHub Profile Portfolio in Minutes!](https://ytcards.demolab.com/?id=Oyh0yBJMLrM&title=Create+Your+Custom+GitHub+Profile+Portfolio+in+Minutes%21&lang=en&timestamp=1680338285&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=893 "Create Your Custom GitHub Profile Portfolio in Minutes!")](https://www.youtube.com/watch?v=Oyh0yBJMLrM)
+[![The Only CSS Grid Video You'll Ever Need](https://ytcards.demolab.com/?id=adsEUM6xGvI&title=The+Only+CSS+Grid+Video+You%27ll+Ever+Need&lang=en&timestamp=1679785202&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1387 "The Only CSS Grid Video You'll Ever Need")](https://www.youtube.com/watch?v=adsEUM6xGvI)
+[![Top Tricks for Boosting Website Performance: Front-End Developer Edition](https://ytcards.demolab.com/?id=x99LVbOTgt4&title=Top+Tricks+for+Boosting+Website+Performance%3A+Front-End+Developer+Edition&lang=en&timestamp=1679374819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1240 "Top Tricks for Boosting Website Performance: Front-End Developer Edition")](https://www.youtube.com/watch?v=x99LVbOTgt4)
+[![From Chaos to Order: Structuring Your Programming Projects](https://ytcards.demolab.com/?id=djPrljZsVxc&title=From+Chaos+to+Order%3A+Structuring+Your+Programming+Projects&lang=en&timestamp=1678590017&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=988 "From Chaos to Order: Structuring Your Programming Projects")](https://www.youtube.com/watch?v=djPrljZsVxc)
 <!-- END YOUTUBE-CARDS -->
 <br>
 
